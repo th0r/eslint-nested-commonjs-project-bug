@@ -1,7 +1,7 @@
 {
   "name": "@workato/eslint-test",
   "type": "module",
-  "main": "./esm-project/esm.js",
+  "main": "./esm-files/esm.js",
   "devDependencies": {
     "eslint": "8.12.0",
     "eslint-plugin-node": "11.1.0"
